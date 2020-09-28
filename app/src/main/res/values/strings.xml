@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">Prueba</string>
+    <string name="app_name">Laboratorio 01</string>
+    <string name="forms_title">Enroll Student</string>
+    <string name="forms_label_name">Name</string>
+    <string name="forms_label_surname">Surname</string>
+    <string name="forms_label_cui">CUI</string>
+    <string name="forms_label_email">Email</string>
+    <string name="forms_label_phone_number">Phone Number</string>
+    <string name="forms_label_semester">Semester</string>
+    <string name="forms_label_birthdate">Birthdate</string>
+    <string name="forms_button_enroll">Enroll</string>
+    <string name="forms_button_exit">Exit</string>
 </resources>
